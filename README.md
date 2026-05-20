@@ -47,5 +47,5 @@ Coze工作流 · 大语言模型 · Prompt Engineering · JSON
 ## 项目文档
 
 - [分级Prompt模板库](prompt-templates.txt)
-- [工作日志](Work Log.txt)
+- [工作日志](WorkLog.txt)
 - [产品设计文档](product-design.txt)
